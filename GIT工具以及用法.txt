@@ -1,0 +1,10 @@
+版本管理工具的发展史：
+CVS是第一代，SVN是第二代，GIT是第三代。
+
+工具地址：\\192.168.0.123\soft\开发工具\GIT工具
+安装方法：先装GIT，再装TortoiseGit
+
+学习文档（链接可点击）：
+Pro Git book（中文版）
+Git Community Book 中文版
+TortoiseGit Manual（英文版）
